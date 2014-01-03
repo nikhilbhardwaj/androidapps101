@@ -1,0 +1,5 @@
+I chose Alan Turing because his idea of the turing machine has defined todays computers. The simplicity of the idea and yet the enormity is mindblowing.
+
+I chose Why the lucky stiff because of his unconventional approach to programming, his poingant guide is a delight to read.
+
+This app was relatively straightforward to make but I was stuck for a while because of a bug in the android 4.4 emulator because of which it didn't revolve. I found help in the forums and am now using Genemotion instead of the stock emulator.

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lucky Seven</string>
+    <string name="action_settings">Settings</string>
+    <string name="choice_message">Choose your number</string>
+    <string name="content_description">Roll of the dice.</string>
+    <string name="button_text">Roll</string>
+
+</resources>

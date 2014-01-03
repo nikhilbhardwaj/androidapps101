@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Know Your Computer Scientists</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Settings</string>
+    <string name="scientist1_name">Alan Turing</string>
+    <string name="content_description">Here is the picture of a famous computer scientist.</string>
+    <string name="scientist1_description">In four inadequate words Alan Turing appears 
+        now as the founder of computer science, the originator of the dominant technology 
+        of the late twentieth century, but these words were not spoken in his own lifetime, 
+        and he may yet be seen in a different light in the future.
+        
+        His greatest work was: the idea of the Universal Turing Machine. 
+        The concept of \'the Turing machine\' is like that of \'the formula\' or \'the equation\'; 
+        there is an infinity of possible Turing machines, each corresponding to a different 
+        \'definite method\' or algorithm. But imagine, as Turing did, each particular algorithm 
+        written out as a set of instructions in a standard form. Then the work of interpreting 
+        the instructions and carrying them out is itself a mechanical process, and so can itself 
+        be embodied in a particular Turing machine, namely the Universal Turing machine.
+        A Universal Turing machine can be made do what any other particular Turing machine
+        would do, by supplying it with the standard form describing that Turing machine. 
+        One machine, for all possible tasks.
+        
+        </string>
+    <string name="scientist2_description">Jonathan Gillette, better known as why the lucky stiff 
+        (often abbreviated to Why or _why) , was until 2009 a prolific writer, cartoonist, artist
+ and computer programmer notable for his work with the Ruby programming language.
+ He was known as one of the most unusual, and beloved, computer programmers
+ in the world before he abruptly disappeared from public view.  Along with Yukihiro 
+ Matsumoto and David Heinemeier Hansson, he was seen as a key figure in the Ruby 
+ community. _why was the keynote speaker at RailsConf in 2006.
+    On 19 August 2009, his online presence was drastically truncated; his accounts on Twitter 
+    and GitHub were shut down, along with many of his personally maintained sites. 
+    His projects have since been collected and centralized on the whymirror GitHub account.
+	</string>
+    <string name="scientist2_name">Jonathan Gillette</string>
+
+</resources>
